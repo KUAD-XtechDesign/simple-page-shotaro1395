@@ -132,6 +132,8 @@ main{
 .main_pic{
     text-align: center;
     margin-bottom: 30px;
+        max-width: 50%;
+        height: auto;
 }
 
 .main2_pic{
