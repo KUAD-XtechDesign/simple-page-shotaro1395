@@ -122,7 +122,7 @@ main{
     z-index: 0;
 }
 
-@media screen and (max-width:350px) { 
+@media screen and (max-width:480px) { 
     main{
         padding:30px 20px;
     }
